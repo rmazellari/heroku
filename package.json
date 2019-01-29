@@ -1,0 +1,22 @@
+{
+  "name": "node_apps",
+  "version": "1.0.0",
+  "description": "First node app",
+  "main": "first_app.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.16.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmazellari/heroku.git"
+  },
+  "author": "Antonis Mazellari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmazellari/heroku/issues"
+  },
+  "homepage": "https://github.com/rmazellari/heroku#readme"
+}
